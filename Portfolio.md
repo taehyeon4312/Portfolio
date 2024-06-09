@@ -26,6 +26,7 @@ xogus4312@naver.com
 기술 스택: python, android studio, flutter, dart, mysql
 목표: 특정 분야의 전문성을 갖고 사용자 정보를 기반하여 성격기반 맞춤형 인공지능 대화앱입니다.
 역할: Assistant Api 개발, flutter 크로스 플랫폼을 이용한 AOS/IOS 앱 개발(프론트엔드)
+
 ![gpt app project 1](https://github.com/taehyeon4312/Portfolio/assets/100744515/2c729748-5af0-4b97-aece-870e516ccef6)
 ![gpt app project 2](https://github.com/taehyeon4312/Portfolio/assets/100744515/d1d772cd-7041-4a31-92e5-4a510f4ea368)
 ![gpt app project 3](https://github.com/taehyeon4312/Portfolio/assets/100744515/584e429d-7ccb-487e-a27c-838fb7350373)
